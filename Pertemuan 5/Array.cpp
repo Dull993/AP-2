@@ -43,4 +43,48 @@ int main () {
     //     }
     //     cout << endl;
     //     }
+
+     // String (Array of char)
+    // string nama = "Alya";
+    // cout << nama[0] << endl;
+    // cout << nama[2] << endl;
+
+    // cout << nama.length(); // untuk menghitung jumlah karakter
+
+    // string s1 = "Hello";
+    // string s2 = "World";
+
+    // // 1. s1 = s2
+    // s1 = s2;
+    // cout << "s1 sekarang = " << s1 << endl;
+
+    // // 2. s1 = s1 + s2
+    // s1 = "Hello"; // reset nilai
+    // cout << "Hasil gabungan = " << s1 + s2 << endl;
+
+    // // 3. s1.length()
+    // cout << s1.length() << endl; //5
+    // cout << (s1 + s2).length() << endl; //10
+
+    // // 4. s1.substr(n,m) n itu mulai dari berapa, m itu panjang berapa
+    // cout << s1.substr(2, 3) << endl;
+
+
+    // Operator sizeof
+    // int angka = 10;
+    // cout << sizeof(angka); // 4
+
+    // int nilai[] = {10, 20, 30, 40, 50};
+    // cout << sizeof(nilai);
+
+
+    // Array Library
+    // Misal Array biasa : float nilai[5]
+
+    // array<float,5> nilai = {87.5, 90, 100, 95.7, 78.3};
+    // cout << "Nilai : ";
+
+    // for (int i = 0; i < nilai.size(); i++){
+    //     cout << nilai[i] << " ";
+    // }
 }
