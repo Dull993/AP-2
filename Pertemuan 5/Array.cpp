@@ -77,7 +77,6 @@ int main () {
     // int nilai[] = {10, 20, 30, 40, 50};
     // cout << sizeof(nilai);
 
-
     // Array Library
     // Misal Array biasa : float nilai[5]
 
