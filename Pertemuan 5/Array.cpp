@@ -69,7 +69,6 @@ int main () {
     // // 4. s1.substr(n,m) n itu mulai dari berapa, m itu panjang berapa
     // cout << s1.substr(2, 3) << endl;
 
-
     // Operator sizeof
     // int angka = 10;
     // cout << sizeof(angka); // 4
